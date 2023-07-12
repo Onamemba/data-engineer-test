@@ -1,0 +1,17 @@
+version: '3'
+services:
+  data-ingestion:
+    image: data-ingestion
+    environment:
+      - ./config.env
+    volumes:
+      - ./data:/app/data
+      - ./data/places.csv:/app/places.csv
+      - ./data/people.csv:/app/people.csv
+    depends_on:
+      - db
+
+  db:
+    image: mysql:8.0
+    environment:
+       - ./config.env

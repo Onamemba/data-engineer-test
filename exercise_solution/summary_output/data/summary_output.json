@@ -1,0 +1,458 @@
+[
+    {
+        "country": "Aberdeen",
+        "count": 109
+    },
+    {
+        "country": "Airdrie",
+        "count": 81
+    },
+    {
+        "country": "Alloa",
+        "count": 69
+    },
+    {
+        "country": "Annan",
+        "count": 92
+    },
+    {
+        "country": "Anstruther",
+        "count": 91
+    },
+    {
+        "country": "Arbroath",
+        "count": 76
+    },
+    {
+        "country": "Ardrossan",
+        "count": 102
+    },
+    {
+        "country": "Armagh",
+        "count": 88
+    },
+    {
+        "country": "Ayr",
+        "count": 90
+    },
+    {
+        "country": "Ballymena",
+        "count": 88
+    },
+    {
+        "country": "Ballymoney",
+        "count": 88
+    },
+    {
+        "country": "Banbridge",
+        "count": 91
+    },
+    {
+        "country": "Banff",
+        "count": 96
+    },
+    {
+        "country": "Bangor",
+        "count": 101
+    },
+    {
+        "country": "Barrhead",
+        "count": 89
+    },
+    {
+        "country": "Bathgate",
+        "count": 78
+    },
+    {
+        "country": "Belfast",
+        "count": 88
+    },
+    {
+        "country": "Bellshill",
+        "count": 69
+    },
+    {
+        "country": "Blairgowrie",
+        "count": 77
+    },
+    {
+        "country": "Brechin",
+        "count": 86
+    },
+    {
+        "country": "Bridge of Allan",
+        "count": 96
+    },
+    {
+        "country": "Buckie",
+        "count": 87
+    },
+    {
+        "country": "Campbeltown",
+        "count": 114
+    },
+    {
+        "country": "Carluke",
+        "count": 92
+    },
+    {
+        "country": "Carrickfergus",
+        "count": 95
+    },
+    {
+        "country": "Castle Douglas",
+        "count": 89
+    },
+    {
+        "country": "Clydebank",
+        "count": 95
+    },
+    {
+        "country": "Coatbridge",
+        "count": 92
+    },
+    {
+        "country": "Coleraine",
+        "count": 74
+    },
+    {
+        "country": "Cookstown",
+        "count": 89
+    },
+    {
+        "country": "Crieff",
+        "count": 80
+    },
+    {
+        "country": "Cupar",
+        "count": 86
+    },
+    {
+        "country": "Dalbeattie",
+        "count": 83
+    },
+    {
+        "country": "Dalkeith",
+        "count": 86
+    },
+    {
+        "country": "Dalry",
+        "count": 86
+    },
+    {
+        "country": "Dingwall",
+        "count": 86
+    },
+    {
+        "country": "Downpatrick",
+        "count": 98
+    },
+    {
+        "country": "Dromore",
+        "count": 85
+    },
+    {
+        "country": "Dufftown",
+        "count": 82
+    },
+    {
+        "country": "Dumbarton",
+        "count": 88
+    },
+    {
+        "country": "Dumfries",
+        "count": 107
+    },
+    {
+        "country": "Dundee",
+        "count": 75
+    },
+    {
+        "country": "Dunfermline",
+        "count": 93
+    },
+    {
+        "country": "Dungannon",
+        "count": 75
+    },
+    {
+        "country": "Edinburgh",
+        "count": 81
+    },
+    {
+        "country": "Elgin",
+        "count": 87
+    },
+    {
+        "country": "Enniskillen",
+        "count": 77
+    },
+    {
+        "country": "Falkirk",
+        "count": 94
+    },
+    {
+        "country": "Forfar",
+        "count": 89
+    },
+    {
+        "country": "Forres",
+        "count": 88
+    },
+    {
+        "country": "Fraserburgh",
+        "count": 81
+    },
+    {
+        "country": "Galashiels",
+        "count": 93
+    },
+    {
+        "country": "Glasgow",
+        "count": 102
+    },
+    {
+        "country": "Golspie",
+        "count": 101
+    },
+    {
+        "country": "Grantown-on-Spey",
+        "count": 82
+    },
+    {
+        "country": "Greenock",
+        "count": 88
+    },
+    {
+        "country": "Haddington",
+        "count": 89
+    },
+    {
+        "country": "Hamilton",
+        "count": 79
+    },
+    {
+        "country": "Hawick",
+        "count": 74
+    },
+    {
+        "country": "Helensburgh",
+        "count": 101
+    },
+    {
+        "country": "Huntly",
+        "count": 78
+    },
+    {
+        "country": "Invergordon",
+        "count": 75
+    },
+    {
+        "country": "Inverness",
+        "count": 71
+    },
+    {
+        "country": "Irvine",
+        "count": 64
+    },
+    {
+        "country": "Jedburgh",
+        "count": 90
+    },
+    {
+        "country": "Keith",
+        "count": 112
+    },
+    {
+        "country": "Kelso",
+        "count": 99
+    },
+    {
+        "country": "Kilmarnock",
+        "count": 73
+    },
+    {
+        "country": "Kilsyth",
+        "count": 78
+    },
+    {
+        "country": "Kinross",
+        "count": 98
+    },
+    {
+        "country": "Kirkcaldy",
+        "count": 95
+    },
+    {
+        "country": "Kirkintilloch",
+        "count": 82
+    },
+    {
+        "country": "Kirkwall",
+        "count": 88
+    },
+    {
+        "country": "Kirriemuir",
+        "count": 73
+    },
+    {
+        "country": "Lanark",
+        "count": 93
+    },
+    {
+        "country": "Langholm",
+        "count": 96
+    },
+    {
+        "country": "Larne",
+        "count": 96
+    },
+    {
+        "country": "Lerwick",
+        "count": 96
+    },
+    {
+        "country": "Leven",
+        "count": 88
+    },
+    {
+        "country": "Linlithgow",
+        "count": 91
+    },
+    {
+        "country": "Lisburn",
+        "count": 99
+    },
+    {
+        "country": "Lockerbie",
+        "count": 76
+    },
+    {
+        "country": "Londonderry",
+        "count": 73
+    },
+    {
+        "country": "Lurgan",
+        "count": 100
+    },
+    {
+        "country": "Milngavie",
+        "count": 103
+    },
+    {
+        "country": "Montrose",
+        "count": 80
+    },
+    {
+        "country": "Motherwell",
+        "count": 89
+    },
+    {
+        "country": "Musselburgh",
+        "count": 82
+    },
+    {
+        "country": "Nairn",
+        "count": 97
+    },
+    {
+        "country": "Newry",
+        "count": 88
+    },
+    {
+        "country": "Newton Stewart",
+        "count": 73
+    },
+    {
+        "country": "Newtownards",
+        "count": 91
+    },
+    {
+        "country": "Oban",
+        "count": 77
+    },
+    {
+        "country": "Omagh",
+        "count": 86
+    },
+    {
+        "country": "Paisley",
+        "count": 67
+    },
+    {
+        "country": "Peebles",
+        "count": 96
+    },
+    {
+        "country": "Perth",
+        "count": 89
+    },
+    {
+        "country": "Peterhead",
+        "count": 74
+    },
+    {
+        "country": "Port Glasgow",
+        "count": 86
+    },
+    {
+        "country": "Portadown",
+        "count": 101
+    },
+    {
+        "country": "Portsoy",
+        "count": 80
+    },
+    {
+        "country": "Rothesay",
+        "count": 91
+    },
+    {
+        "country": "Selkirk",
+        "count": 94
+    },
+    {
+        "country": "St Andrews",
+        "count": 87
+    },
+    {
+        "country": "Stirling",
+        "count": 90
+    },
+    {
+        "country": "Stonehaven",
+        "count": 82
+    },
+    {
+        "country": "Stornoway",
+        "count": 84
+    },
+    {
+        "country": "Strabane",
+        "count": 81
+    },
+    {
+        "country": "Stranraer",
+        "count": 98
+    },
+    {
+        "country": "Thurso",
+        "count": 99
+    },
+    {
+        "country": "Tillicoultry",
+        "count": 88
+    },
+    {
+        "country": "West Calder",
+        "count": 94
+    },
+    {
+        "country": "Wick",
+        "count": 95
+    },
+    {
+        "country": "Wishaw",
+        "count": 86
+    }
+]

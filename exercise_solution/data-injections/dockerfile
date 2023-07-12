@@ -1,0 +1,20 @@
+FROM python:3.9
+
+WORKDIR /app
+
+# Install MySQL client library if required
+# RUN apt-get update && apt-get install -y mysql-client
+
+# Copy data ingestion script and CSV files
+COPY data_ingestion_script.py .
+COPY config.env .
+COPY /data/places.csv data/
+COPY /data/people.csv data/
+
+# Install Python dependencies
+RUN pip install mysql-connector-python
+RUN pip install python-dotenv
+
+# Set the entry point to run the data ingestion script
+CMD [ "python", "data_ingestion_script.py"]
+

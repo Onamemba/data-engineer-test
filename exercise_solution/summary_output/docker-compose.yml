@@ -1,0 +1,15 @@
+version: '3'
+services:
+  data-ingestion:
+    image: summary-generator
+    environment:
+      - ./config.env
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      - db
+
+  db:
+    image: mysql:8.0
+    environment:
+       - ./config.env

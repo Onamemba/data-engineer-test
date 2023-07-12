@@ -1,0 +1,15 @@
+FROM python:3.9
+
+WORKDIR /app
+
+# Copy the script file
+COPY summary_script.py .
+COPY config.env .
+
+# Install MySQL connector
+RUN pip install mysql-connector-python
+RUN pip install python-dotenv
+
+# Set the entry point to run the summary script
+CMD [ "python", "summary_script.py" ]
+
